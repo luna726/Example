@@ -1,0 +1,6 @@
+package Test;
+public abstract class Fru
+{
+	String name;
+	public abstract void eat();
+}
